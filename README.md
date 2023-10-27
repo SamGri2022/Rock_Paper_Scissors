@@ -7,6 +7,6 @@ Rock, Paper, Scissors Game
 
 Features:
 
-- Different colored output for a win, loss, or draw.
-- Keeps track of user's results.
+Different colored output for a win, loss, or draw.
+Keeps track of user's results.
 
